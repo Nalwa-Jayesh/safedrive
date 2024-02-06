@@ -1,0 +1,7 @@
+venv/
+data/download
+data/*.mp4
+data/*.mov
+*.pt
+__pycache__/
+*.idea
